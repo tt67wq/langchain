@@ -33,3 +33,5 @@ langchain-*.tar
 DEV_NOTES.md
 PERSONAL.md
 /logo/
+
+/.claude/
